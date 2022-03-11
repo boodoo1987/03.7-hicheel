@@ -1,0 +1,100 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.boodoo {
+    width: 100%;
+    display: flex;
+    margin-bottom: 1rem;
+
+}
+
+.tom{
+    margin-top: 20px;
+    margin: 10px;
+    width: 300px;
+    height: 200px;
+    border: 5px solid #000;
+ 
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+
+.jijig {
+    width: 50px;
+    height: 50px;
+    border: 4px solid #f3a806;
+}
+
+.tom1{
+    margin: 10px;
+    margin-top: 30px;
+    width: 300px;
+    height: 200px;
+    border: 5px solid #0f0f0f;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction:column;
+}
+.jijig1{
+    width: 50px;
+    height: 50px;
+    border: 3px solid #f3a806;
+}
+
+.tom2{
+    margin: 10px;
+    margin-top: 30px;
+    width: 300px;
+    height: 200px;
+    border: 5px solid #000;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 1rem;
+   
+
+}
+
+.jijig2{
+    width: 50px;
+    height: 50px;
+    border: 3px solid #0044ff;
+}
+
+
+.tom3{
+    margin: 10px;
+    margin-top: 30px;
+    width: 300px;
+    height: 200px;
+    border: 5px solid #0f0f0f;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction:column;
+
+}
+.jijig3 {
+    width: 50px;
+    height: 50px;
+    border: 4px solid #f3a806;
+}
+
+
+.tom4{
+    margin: 10px;
+    margin-top: 30px;
+    width: 300px;
+    height: 200px;
+    border: 6px solid #0f0f0f;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction:column;
+
+}
+.jijig4 {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #1e06f3;
+}
